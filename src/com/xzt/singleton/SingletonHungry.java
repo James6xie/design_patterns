@@ -1,4 +1,4 @@
-package com.xzt;
+package com.xzt.singleton;
 
 /**
  * @author: zhongtianemail@gmail.com
